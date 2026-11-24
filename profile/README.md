@@ -1,4 +1,4 @@
-![GitHub Repo Banner](https://ghrb.waren.build/render/banner?header=%21%5Bgithub%5D+Raytolfas&bg=a250ff-6C2FB1&color=FFFFFF&headerfont=DynaPuff&support=false)
+![GitHub Repo Banner](https://github.com/Raytolfas/.github/blob/main/profile/banner.png?raw=true)
 
 <p align="center">
   <a href="https://skillicons.dev">
